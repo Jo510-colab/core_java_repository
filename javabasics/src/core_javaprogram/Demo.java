@@ -5,9 +5,6 @@ import java.util.Scanner;
 public class Demo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-//		System.out.println("java session started");
-//		System.out.print("by thamizhselvan");
 		int a,b,c;
 		Scanner s =new Scanner(System.in);
 		System.out.println("Enter the a and b values:");
